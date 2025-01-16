@@ -1,3 +1,5 @@
+-- Crear la base de datos con el nombre 'concesionario' en caso de que salte error
+
 CREATE TABLE public.vehiculos (
 	id int4 NOT NULL,
 	marca varchar NULL,
